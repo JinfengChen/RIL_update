@@ -1,0 +1,237 @@
+#FC133
+#/rhome/cjinfeng/Rice/RIL/FC133_RIL_39/genotype_sample_illuminaID.txt
+133	7	flowcell133_lane7_ACTTGA	0	ACTTGA	RIL39_1
+133	7	flowcell133_lane7_GATCAG	0	GATCAG	RIL39_2
+#FC153
+#/rhome/cjinfeng/Rice/RIL/FC153_RIL_13_24/genotype_sample_illuminaID.txt
+153	6	flowcell153_lane6_ATCACG	0	ATCACG	RIL17_0
+153	6	flowcell153_lane6_ACTTGA	0	ACTTGA	RIL14_0
+153	6	flowcell153_lane6_TAGCTT	0	TAGCTT	RIL18_0
+153	6	flowcell153_lane6_GAGTGG	0	GAGTGG	RIL22_0
+153	6	flowcell153_lane6_GATCAG	0	GATCAG	RIL15_0
+153	6	flowcell153_lane6_GGCTAC	0	GGCTAC	RIL19_0
+153	6	flowcell153_lane6_ATTCCT	0	ATTCCT	RIL24_0
+153	6	flowcell153_lane6_GTGGCC	0	GTGGCC	RIL20_0
+153	6	flowcell153_lane6_ACTGAT	0	ACTGAT	RIL23_0
+153	6	flowcell153_lane6_TTAGGC	0	TTAGGC	RIL13_0
+153	6	flowcell153_lane6_GTTTCG	0	GTTTCG	RIL21_0
+153	6	flowcell153_lane6_CGTACG	0	CGTACG	RIL16_0
+#FC153
+#/rhome/cjinfeng/Rice/RIL/FC153_RIL_1_12/genotype_sample_illuminaID.txt
+153	5	flowcell153_lane5_TTAGGC	0	TTAGGC	RIL2_0
+153	5	flowcell153_lane5_GAGTGG	0	GAGTGG	RIL10_0
+153	5	flowcell153_lane5_ACTGAT	0	ACTGAT	RIL11_0
+153	5	flowcell153_lane5_GGCTAC	0	GGCTAC	RIL7_0
+153	5	flowcell153_lane5_GTGGCC	0	GTGGCC	RIL8_0
+153	5	flowcell153_lane5_GATCAG	0	GATCAG	RIL4_0
+153	5	flowcell153_lane5_ATCACG	0	ATCACG	RIL5_0
+153	5	flowcell153_lane5_ACTTGA	0	ACTTGA	RIL3_0
+153	5	flowcell153_lane5_GTTTCG	0	GTTTCG	RIL9_0
+153	5	flowcell153_lane5_CGTACG	0	CGTACG	RIL1_0
+153	5	flowcell153_lane5_TAGCTT	0	TAGCTT	RIL6_0
+153	5	flowcell153_lane5_ATTCCT	0	ATTCCT	RIL12_0
+#FC153
+#/rhome/cjinfeng/Rice/RIL/FC153_RIL_25-26_29-31_33-38/genotype_sample_illuminaID.txt
+153	7	flowcell153_lane7_ACTGAT	0	ACTGAT	RIL37_0
+153	7	flowcell153_lane7_TTAGGC	0	TTAGGC	RIL25_0
+153	7	flowcell153_lane7_GGCTAC	0	GGCTAC	RIL33_0
+153	7	flowcell153_lane7_GAGTGG	0	GAGTGG	RIL36_0
+153	7	flowcell153_lane7_CGTACG	0	CGTACG	RIL29_0
+153	7	flowcell153_lane7_GTTTCG	0	GTTTCG	RIL35_0
+153	7	flowcell153_lane7_GTGGCC	0	GTGGCC	RIL34_0
+153	7	flowcell153_lane7_ATTCCT	0	ATTCCT	RIL38_0
+153	7	flowcell153_lane7_ATCACG	0	ATCACG	RIL30_0
+153	7	flowcell153_lane7_ACTTGA	0	ACTTGA	RIL26_0
+153	7	flowcell153_lane7_TAGCTT	0	TAGCTT	RIL31_0
+#FC153
+#/rhome/cjinfeng/Rice/RIL/FC153_RIL_42-49_51-53/genotype_sample_illuminaID.txt
+153	8	flowcell153_lane8_GTTTCG	0	GTTTCG	RIL49_0
+153	8	flowcell153_lane8_GGCTAC	0	GGCTAC	RIL47_0
+153	8	flowcell153_lane8_ATTCCT	0	ATTCCT	RIL52_0
+153	8	flowcell153_lane8_TAGCTT	0	TAGCTT	RIL46_0
+153	8	flowcell153_lane8_ACTTGA	0	ACTTGA	RIL42_0
+153	8	flowcell153_lane8_ATCACG	0	ATCACG	RIL45_0
+153	8	flowcell153_lane8_ACTGAT	0	ACTGAT	RIL51_0
+153	8	flowcell153_lane8_GATCAG	0	GATCAG	RIL43_0
+153	8	flowcell153_lane8_GTGGCC	0	GTGGCC	RIL48_0
+153	8	flowcell153_lane8_TTAGGC	0	TTAGGC	RIL53_0
+153	8	flowcell153_lane8_CGTACG	0	CGTACG	RIL44_0
+#FC193
+#/rhome/cjinfeng/Rice/RIL/FC193_HEG4_NB_25_99_40_60/genotype_sample_illuminaID.txt
+#HEG4_P
+#193	6	flowcell193_lane6_ATCACG	0	ATCACG	
+#change RIL60_0 -> RIL58_0, but RIL58_0 has problem too, same with RIL61_0_TTAGGC_FC197L2
+#achieve this one, use RIL58_1_GGCTAC_FC197L1 for RIL58
+#193	6	flowcell193_lane6_CTTGTA	0	CTTGTA	RIL58_0
+193	6	flowcell193_lane6_ACAGTG	0	ACAGTG	RIL40_0
+#NB_P
+#193	6	flowcell193_lane6_CGATGT	0	CGATGT	
+193	6	flowcell193_lane6_TTAGGC	0	TTAGGC	RIL25_0
+193	6	flowcell193_lane6_TGACCA	0	TGACCA	RIL99_0
+#FC193
+#/rhome/cjinfeng/Rice/RIL/FC193_RIL_12_13_16_43_45_47/genotype_sample_illuminaID.txt
+193	5	flowcell193_lane5_GGCTAC	0	GGCTAC	RIL47_0
+193	5	flowcell193_lane5_TTAGGC	0	TTAGGC	RIL13_0
+193	5	flowcell193_lane5_ATTCCT	0	ATTCCT	RIL12_0
+193	5	flowcell193_lane5_ATCACG	0	ATCACG	RIL45_0
+193	5	flowcell193_lane5_GATCAG	0	GATCAG	RIL43_0
+193	5	flowcell193_lane5_CGTACG	0	CGTACG	RIL16_0
+#FC197
+#/rhome/cjinfeng/Rice/RIL/FC197_RIL_115_87_93_94_96_134_136_137_139_141_151_152/genotype_sample_illuminaID.txt
+197	3	flowcell197_lane3_AGTCAA	0	AGTCAA	RIL87_0
+197	3	flowcell197_lane3_CCGTCC	0	CCGTCC	RIL96_0
+#achieve this one, redoing, 20151030
+#197	3	flowcell197_lane3_TTAGGC	0	TTAGGC	RIL115_0
+197	3	flowcell197_lane3_GTTTCG	0	GTTTCG	RIL139_0
+197	3	flowcell197_lane3_ATGTCA	0	ATGTCA	RIL94_0
+197	3	flowcell197_lane3_GTCCGC	0	GTCCGC	RIL134_0
+197	3	flowcell197_lane3_GTGAAA	0	GTGAAA	RIL136_0
+197	3	flowcell197_lane3_GTGGCC	0	GTGGCC	RIL137_0
+197	3	flowcell197_lane3_ATTCCT	0	ATTCCT	RIL152_0
+197	3	flowcell197_lane3_ACTGAT	0	ACTGAT	RIL151_0
+197	3	flowcell197_lane3_AGTTCC	0	AGTTCC	RIL93_0
+197	3	flowcell197_lane3_GAGTGG	0	GAGTGG	RIL141_0
+#FC197
+#/rhome/cjinfeng/Rice/RIL/FC197_RIL_120_121_240_241_243_256_178_190_191_204_210_226/genotype_sample_illuminaID.txt
+197	8	flowcell197_lane8_ACAGTG	0	ACAGTG	RIL191_0
+197	8	flowcell197_lane8_CGATGT	0	CGATGT	RIL256_0
+197	8	flowcell197_lane8_CGTACG	0	CGTACG	RIL241_0
+197	8	flowcell197_lane8_ACTTGA	0	ACTTGA	RIL120_0
+197	8	flowcell197_lane8_TTAGGC	0	TTAGGC	RIL178_0
+#achieve this one, redoing, 20151030
+#197	8	flowcell197_lane8_GTTTCG	0	GTTTCG	RIL240_0
+197	8	flowcell197_lane8_TGACCA	0	TGACCA	RIL190_0
+197	8	flowcell197_lane8_GAGTGG	0	GAGTGG	RIL243_0
+197	8	flowcell197_lane8_GGCTAC	0	GGCTAC	RIL226_0
+197	8	flowcell197_lane8_GCCAAT	0	GCCAAT	RIL204_0
+197	8	flowcell197_lane8_GATCAG	0	GATCAG	RIL121_0
+197	8	flowcell197_lane8_TAGCTT	0	TAGCTT	RIL210_0
+#FC197
+#/rhome/cjinfeng/Rice/RIL/FC197_RIL_123_166_231_256_268_277/genotype_sample_illuminaID.txt
+197	5	flowcell197_lane5_ACAGTG	0	ACAGTG	RIL123_0
+197	5	flowcell197_lane5_GGCTAC	0	GGCTAC	RIL277_0
+197	5	flowcell197_lane5_TGACCA	0	TGACCA	RIL166_0
+197	5	flowcell197_lane5_CGATGT	0	CGATGT	RIL256_0
+197	5	flowcell197_lane5_ATCACG	0	ATCACG	RIL268_0
+197	5	flowcell197_lane5_TTAGGC	0	TTAGGC	RIL231_0
+#FC197
+#/rhome/cjinfeng/Rice/RIL/FC197_RIL_50_62_55_57_56_58_63_66_68_69_70/genotype_sample_illuminaID.txt
+197	1	flowcell197_lane1_TTAGGC	0	TTAGGC	RIL50_0
+197	1	flowcell197_lane1_GTGGCC	0	GTGGCC	RIL63_0
+#achieve this one, redoing, 20151030.
+#197	1	flowcell197_lane1_GAGTGG	0	GAGTGG	RIL70_0
+197	1	flowcell197_lane1_GATCAG	0	GATCAG	RIL56_0
+197	1	flowcell197_lane1_CGTACG	0	CGTACG	RIL69_0
+197	1	flowcell197_lane1_GGCTAC	0	GGCTAC	RIL58_1
+197	1	flowcell197_lane1_TAGCTT	0	TAGCTT	RIL57_0
+197	1	flowcell197_lane1_AGTCAA	0	AGTCAA	RIL62_0
+197	1	flowcell197_lane1_ATTCCT	0	ATTCCT	RIL72_0
+#achieve this one, redoing, 20151030.
+#197	1	flowcell197_lane1_ACTTGA	0	ACTTGA	RIL55_0
+197	1	flowcell197_lane1_TGACCA	0	TGACCA	RIL66_0
+197	1	flowcell197_lane1_GTTTCG	0	GTTTCG	RIL68_0
+#FC197
+#/rhome/cjinfeng/Rice/RIL/FC197_RIL_54_59_64_65_78_80_81_102_132_213_221_222/genotype_sample_illuminaID.txt
+197	6	flowcell197_lane6_TAGCTT	0	TAGCTT	RIL54_0
+#achieve this one, redoing, 20151030.
+#197	6	flowcell197_lane6_AGTTCC	0	AGTTCC	RIL81_0
+197	6	flowcell197_lane6_GTCCGC	0	GTCCGC	RIL213_0
+#achieve this one, redoing, 20151030.
+#197	6	flowcell197_lane6_CCGTCC	0	CCGTCC	RIL132_0
+197	6	flowcell197_lane6_GCCAAT	0	GCCAAT	RIL80_0
+#achieve this one, redoing, 20151030.
+#197	6	flowcell197_lane6_GTGAAA	0	GTGAAA	RIL221_0
+197	6	flowcell197_lane6_CAGATC	0	CAGATC	RIL78_0
+197	6	flowcell197_lane6_GATCAG	0	GATCAG	RIL64_0
+197	6	flowcell197_lane6_ATGTCA	0	ATGTCA	RIL102_0
+197	6	flowcell197_lane6_GTGGCC	0	GTGGCC	RIL222_0
+197	6	flowcell197_lane6_ACTTGA	0	ACTTGA	RIL59_0
+197	6	flowcell197_lane6_CTTGTA	0	CTTGTA	RIL65_0
+#FC197
+#/rhome/cjinfeng/Rice/RIL/FC197_RIL_61_74_67_73_74_77_76_112_113_116_118_119/genotype_sample_illuminaID.txt
+197	2	flowcell197_lane2_TGACCA	0	TGACCA	RIL116_0
+197	2	flowcell197_lane2_AGTCAA	0	AGTCAA	RIL74_0
+197	2	flowcell197_lane2_ATCACG	0	ATCACG	RIL112_0
+197	2	flowcell197_lane2_TTAGGC	0	TTAGGC	RIL61_0
+197	2	flowcell197_lane2_GCCAAT	0	GCCAAT	RIL119_0
+197	2	flowcell197_lane2_ATGTCA	0	ATGTCA	RIL77_0
+197	2	flowcell197_lane2_GGCTAC	0	GGCTAC	RIL67_0
+197	2	flowcell197_lane2_CCGTCC	0	CCGTCC	RIL79_0
+197	2	flowcell197_lane2_AGTTCC	0	AGTTCC	RIL76_0
+197	2	flowcell197_lane2_CGATGT	0	CGATGT	RIL113_0
+197	2	flowcell197_lane2_CTTGTA	0	CTTGTA	RIL73_0
+197	2	flowcell197_lane2_CAGATC	0	CAGATC	RIL118_0
+#FC197
+#/rhome/cjinfeng/Rice/RIL/FC197_RIL_75_140_179_234_259_A160/genotype_sample_illuminaID.txt
+197	7	flowcell197_lane7_TAGCTT	0	TAGCTT	RIL179_0
+197	7	flowcell197_lane7_CGTACG	0	CGTACG	RIL140_0
+197	7	flowcell197_lane7_ATCACG	0	ATCACG	A160_0
+197	7	flowcell197_lane7_ACTGAT	0	ACTGAT	RIL259_0
+197	7	flowcell197_lane7_GGCTAC	0	GGCTAC	RIL234_0
+197	7	flowcell197_lane7_AGTCAA	0	AGTCAA	RIL75_0
+#FC205
+#/rhome/cjinfeng/Rice/RIL/FC205_RIL_92_98_104_131_169_205_207_209_217_219_227_228/genotype_sample_illuminaID.txt
+205	2	flowcell205_lane2_GATCAG	0	GATCAG	RIL209_0
+205	2	flowcell205_lane2_ACTTGA	0	ACTTGA	RIL207_0
+205	2	flowcell205_lane2_ACAGTG	0	ACAGTG	RIL217_0
+205	2	flowcell205_lane2_ATGTCA	0	ATGTCA	RIL104_0
+205	2	flowcell205_lane2_TAGCTT	0	TAGCTT	RIL219_0
+#achieve this one, redoing, 20151030
+#205	2	flowcell205_lane2_CGATGT	0	CGATGT	RIL169_0
+205	2	flowcell205_lane2_GTGGCC	0	GTGGCC	RIL92_0
+205	2	flowcell205_lane2_CTTGTA	0	CTTGTA	RIL227_0
+205	2	flowcell205_lane2_CAGATC	0	CAGATC	RIL205_0
+#achieve this one, redoing, 20151030
+#205	2	flowcell205_lane2_AGTCAA	0	AGTCAA	RIL228_0
+205	2	flowcell205_lane2_CGTACG	0	CGTACG	RIL98_0
+205	2	flowcell205_lane2_ACTGAT	0	ACTGAT	RIL131_0
+#FC251
+#/rhome/cjinfeng/Rice/RIL/FC251_RIL_97_100_135_145_150_162_167_168_187_190_206_208_211_216-219_223_243_250_252_253_273_278/genotype_sample_illuminaID.txt
+#lane3 are mixed with other lane, fixed, 20151029
+#flowcell251_lane4_GTGAAA got back from undetermined was assigned to RIL167, 20151029.
+#RIL273_0 switch to RIL216_0 based on Ping marker, 20151030
+251	1	flowcell251_lane1_ACAGTG	0	ACAGTG 	RIL216_0
+251	1	flowcell251_lane1_CAGATC	0	CAGATC	RIL168_0
+#RIL216_0 switch to RIL273_0 based on Ping marker, 20151030
+251	1	flowcell251_lane1_CGATGT	0	CGATGT	RIL273_0
+251	1	flowcell251_lane1_CGTACG	0	CGTACG	RIL97_0
+251	1	flowcell251_lane1_GTAGAG	0	GTAGAG	RIL150_0
+251	1	flowcell251_lane1_TAGCTT	0	TAGCTT	RIL187_0
+#achieve this one, low coverage. 20151030
+#251	2	flowcell251_lane2_ATCACG	0	ATCACG	RIL100_0
+251	2	flowcell251_lane2_CCGTCC	0	CCGTCC	RIL252_0
+#achieve this one, redoing, 20151030
+#251	2	flowcell251_lane2_CGATGT	0	CGATGT	RIL223_0
+251	2	flowcell251_lane2_GAGTGG	0	GAGTGG	RIL243_0
+251	2	flowcell251_lane2_GTCCGC 	0	GTCCGC 	RIL253_0
+#achieve this one, same with RIL100_0_TGACCA_FC0813L3 and het. 20151030
+#251	2	flowcell251_lane2_TGACCA	0	TGACCA	RIL190_0
+251	3	flowcell251_lane3_AGTTCC	0	AGTTCC	RIL145_0
+251	3	flowcell251_lane3_CAGATC	0	CAGATC	RIL208_0
+251	3	flowcell251_lane3_CGATGT	0	CGATGT	RIL135_0
+251	3	flowcell251_lane3_GATCAG	0	GATCAG	RIL206_0
+251	3	flowcell251_lane3_GTCCGC	0	GTCCGC	RIL162_0
+251	3	flowcell251_lane3_TAGCTT	0	TAGCTT	RIL211_0
+251	4	flowcell251_lane4_ACAGTG	0	ACAGTG	RIL218_0
+#What is this RIL278, must be other RILs, which one? achieve this one, same with RIL243_0_GAGTGG_FC251L2 
+#251	4	flowcell251_lane4_ATCACG	0	ATCACG	RIL278_0
+251	4	flowcell251_lane4_GTGAAA	0	GTGAAA	RIL167_0
+251	4	flowcell251_lane4_CTTGTA	0	CTTGTA	RIL217_0
+251	4	flowcell251_lane4_GCCAAT	0	GCCAAT	RIL219_0
+251	4	flowcell251_lane4_TTAGGC	0	TTAGGC	RIL278_0
+#FC271
+#/rhome/cjinfeng/Rice/RIL/FC271_RIL_78_97_167_177_228_230_232256_265/genotype_sample_illuminaID.txt
+271	3	flowcell271_lane3_TGACCA	0	TGACCA	RIL230_0
+#achieve this one, redoing, 20151030
+#271	3	flowcell271_lane3_ACAGTG	0	ACAGTG	RIL232_0
+#achieve this one, redoing, 20151030
+#271	3	flowcell271_lane3_GATCAG	0	GATCAG	RIL228_0
+271	3	flowcell271_lane3_AGTTCC	0	AGTTCC	RIL256_0
+271	3	flowcell271_lane3_GTCCGC	0	GTCCGC	RIL265_1
+271	4	flowcell271_lane4_GAGTGG	0	GAGTGG	RIL177_0
+271	4	flowcell271_lane4_AGTCAA	0	AGTCAA	RIL167_0
+271	4	flowcell271_lane4_ATCACG	0	ATCACG	RIL97_0
+271	4	flowcell271_lane4_GCCAAT	0	GCCAAT	RIL78_0
+#FC279
+#/rhome/cjinfeng/Rice/RIL/FC279_RIL242/genotype_sample_illuminaID.txt
+#279	1	flowcell279_lane1_CTTGTA	0	CTTGTA	RIL242_0

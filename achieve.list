@@ -1,0 +1,38 @@
+#library in this list already comment out in genotype_sample_illuminaID.txt and cornell.rename.txt
+#use that file to skip these libraries 
+#inconsistent
+RIL90_0_TGACCA_FC0813L6	inconsistent_PCR
+RIL132_0_CCGTCC_FC197L6	inconsistent_PCR
+RIL220_0_TGACCA_FC1213L7	inconsistent_PCR
+RIL242_0_CTTGTA_FC279L1	inconsistent_PCR
+#inconsistent and duplicate/second library
+RIL55_0_ACTTGA_FC197L1	duplicate	same with RIL54_0_TAGCTT_FC197L6
+RIL58_0_CTTGTA_FC193L6	duplicate	same with RIL61_0_TTAGGC_FC197L2
+RIL60_0_CTTGTA_FC193L6	duplicate	same with RIL61_0_TTAGGC_FC197L2
+RIL70_0_GAGTGG_FC197L1	duplicate	same with RIL72_0_ATTCCT_FC197L1
+RIL81_0_AGTTCC_FC197L6	duplicate	same with RIL166_0_TGACCA_FC197L5
+RIL135_0_CGATGT_FC1213L5	inconsistent_PCR
+RIL216_0_ACAGTG_FC1213L7	inconsistent_PCR
+RIL221_0_GTGAAA_FC197L6	inconsistent_PCR
+RIL278_0_ATCACG_FC251L4	duplicate	similar with RIL243_0_GAGTGG_FC251L2
+
+RIL100_0_ATCACG_FC251L2	low_coverage
+RIL115_0_TTAGGC_FC197L3	duplicate	same with RIL116_0_TGACCA_FC197L2
+RIL127_0_GAGTGG_FC0813L7	duplicate	same with RIL157_0_CTTGTA_FC0813L6
+RIL169_0_CGATGT_FC205L2	duplicate	same with RIL217_0_CTTGTA_FC251L4
+RIL194_0_ATGTCA_FC0813L3	duplicate	same with RIL199_0_CGTACG_FC0813L8
+RIL209_0_GATCAG_FC205L2	duplicate	same with RIL219_0_GCCAAT_FC251L4
+RIL228_0_GATCAG_FC271L3	duplicate	same with RIL219_0_GCCAAT_FC251L4
+RIL228_0_AGTCAA_FC205L2	low_coverage?not used
+RIL232_0_ACAGTG_FC271L3	duplicate	same with RIL231_0_TTAGGC_FC197L5
+RIL240_0_GTTTCG_FC197L8	duplicate	same with RIL3_0_ACTTGA_FC153L5
+RIL243_0_CTTGTA_FC1213L7	second_lib_and_wrong
+RIL250_0_CAGATC_FC251L4	low_coverage?not used
+RIL253_0_ATCACG_FC1213L7	second_lib_and_wrong
+RIL280_0_AGTTCC_FC1213L1	duplicate	same with RIL37_0_ACTGAT_FC153L7
+
+
+#het/duplicate
+RIL190_0_TGACCA_FC251L2	heterozygous	same with RIL100_0_TGACCA_FC0813L3
+RIL223_0_CGATGT_FC251L2	heterozygous
+
