@@ -15,4 +15,5 @@ cd fasta_raw
 bash call_genotypes.sh 
 make all
 echo "then we need to link these file that no need to change in, test if file already there, we will skip"
+python Link_unchanged_files.py | grep "bam" | sort | less -S
 
