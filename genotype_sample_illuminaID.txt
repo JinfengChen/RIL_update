@@ -94,7 +94,8 @@
 #FC197
 #/rhome/cjinfeng/Rice/RIL/FC197_RIL_120_121_240_241_243_256_178_190_191_204_210_226/genotype_sample_illuminaID.txt
 197	8	flowcell197_lane8_ACAGTG	0	ACAGTG	RIL191_0
-197	8	flowcell197_lane8_CGATGT	0	CGATGT	RIL256_0
+#low quality, achieve this one, 20151031
+#197	8	flowcell197_lane8_CGATGT	0	CGATGT	RIL256_0
 197	8	flowcell197_lane8_CGTACG	0	CGTACG	RIL241_0
 197	8	flowcell197_lane8_ACTTGA	0	ACTTGA	RIL120_0
 197	8	flowcell197_lane8_TTAGGC	0	TTAGGC	RIL178_0
@@ -142,10 +143,12 @@
 #achieve this one, redoing, 20151030.
 #197	6	flowcell197_lane6_GTGAAA	0	GTGAAA	RIL221_0
 197	6	flowcell197_lane6_CAGATC	0	CAGATC	RIL78_0
-197	6	flowcell197_lane6_GATCAG	0	GATCAG	RIL64_0
+#RIL64 and RIL59 switched in Sofia's record, 20151031
+197	6	flowcell197_lane6_GATCAG	0	GATCAG	RIL59_0
 197	6	flowcell197_lane6_ATGTCA	0	ATGTCA	RIL102_0
 197	6	flowcell197_lane6_GTGGCC	0	GTGGCC	RIL222_0
-197	6	flowcell197_lane6_ACTTGA	0	ACTTGA	RIL59_0
+#RIL64 and RIL59 switched in Sofia's record, 20151031
+197	6	flowcell197_lane6_ACTTGA	0	ACTTGA	RIL64_0
 197	6	flowcell197_lane6_CTTGTA	0	CTTGTA	RIL65_0
 #FC197
 #/rhome/cjinfeng/Rice/RIL/FC197_RIL_61_74_67_73_74_77_76_112_113_116_118_119/genotype_sample_illuminaID.txt
@@ -190,7 +193,7 @@
 #lane3 are mixed with other lane, fixed, 20151029
 #flowcell251_lane4_GTGAAA got back from undetermined was assigned to RIL167, 20151029.
 #RIL273_0 switch to RIL216_0 based on Ping marker, 20151030
-251	1	flowcell251_lane1_ACAGTG	0	ACAGTG 	RIL216_0
+251	1	flowcell251_lane1_ACAGTG	0	ACAGTG	RIL216_0
 251	1	flowcell251_lane1_CAGATC	0	CAGATC	RIL168_0
 #RIL216_0 switch to RIL273_0 based on Ping marker, 20151030
 251	1	flowcell251_lane1_CGATGT	0	CGATGT	RIL273_0
@@ -203,7 +206,7 @@
 #achieve this one, redoing, 20151030
 #251	2	flowcell251_lane2_CGATGT	0	CGATGT	RIL223_0
 251	2	flowcell251_lane2_GAGTGG	0	GAGTGG	RIL243_0
-251	2	flowcell251_lane2_GTCCGC 	0	GTCCGC 	RIL253_0
+251	2	flowcell251_lane2_GTCCGC	0	GTCCGC	RIL253_0
 #achieve this one, same with RIL100_0_TGACCA_FC0813L3 and het. 20151030
 #251	2	flowcell251_lane2_TGACCA	0	TGACCA	RIL190_0
 251	3	flowcell251_lane3_AGTTCC	0	AGTTCC	RIL145_0
