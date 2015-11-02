@@ -74,11 +74,13 @@ def update_RIL(infile, illumina, genotype, raw, bam_dir):
                 if not os.path.isfile(fq2):
                     os.system('ln -s %s %s' %(fq2_raw, fq2))
                 #Sofia's bam
-                bam = '%s/%s.recal.bam' %(bam_dir, prefix)
+                bam = '%s/%s.recal.bai' %(bam_dir, prefix)
+                bam_all = '%s/%s.*' %(bam_dir, prefix)
                 #illumina/genotype_correct
                 fq1_target = '%s/%s/%s_p1.fq' %(illumina, ril, prefix)
                 fq2_target = '%s/%s/%s_p2.fq' %(illumina, ril, prefix)
-                bam_target = '%s/%s.recal.bam' %(genotype, prefix)
+                bam_target = '%s/%s.recal.bai' %(genotype, prefix)
+                bam_all_target = '%s' %(genotype)
                 #print '%s -> %s' %(fq1, fq1_target)
                 #print '%s -> %s' %(fq2, fq2_target)
                 #print '%s -> %s' %(bam, bam_target)
@@ -91,7 +93,8 @@ def update_RIL(infile, illumina, genotype, raw, bam_dir):
                 if not os.path.isfile(bam_target):
                     print bam_target
                     #print 'ck: %s' %(line)
-                    os.system('ln -s %s %s' %(bam, bam_target))
+                    #os.system('ln -s %s %s' %(bam, bam_target))
+                    os.system('ln -s %s %s' %(bam_all, bam_all_target))
     return data
 
 #RIL168_0 switch with RIL187_0, 20151029
