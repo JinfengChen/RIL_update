@@ -36,6 +36,17 @@ def extract_RIL_id(files, sufix):
     return data
 
 
+def extract_RIL_num(files, sufix):
+    data = defaultdict(lambda : int())
+    for fn in files:
+        fn_base = os.path.basename(fn)
+        ril_id  = re.sub(r'%s' %(sufix), r'', fn_base)
+        unit    = re.split(r'_', ril_id)
+        data[unit[0]] = 1
+    return data
+
+
+
 def readtable(infile):
     data = defaultdict(str)
     with open (infile, 'r') as filehd:
@@ -64,7 +75,15 @@ def main():
     print 'fastq_raw: %s fq1, %s fq2' %(len(fastq_raw_p1.keys()), len(fastq_raw_p2.keys()))
     print 'illumina:  %s fq1, %s fq2' %(len(illumina_p1.keys()), len(illumina_p2.keys()))
     print 'bam:       %s bam' %(len(bam.keys()))
- 
+
+    #number of RILs
+    bam_rils = extract_RIL_num(glob.glob('/rhome/cjinfeng/Rice/RIL/genotypes_correct/MSU_r7.corrected/*.recal.bam'), '.recal.bam')
+    ofile = open('File_consistence.RILs.list', 'w')
+    print 'Number of RILs: %s' %(len(bam_rils.keys()))
+    for ril in sorted(bam_rils.keys()):
+        print >> ofile, ril
+    ofile.close() 
+
 if __name__ == '__main__':
     main()
 

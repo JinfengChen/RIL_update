@@ -1,0 +1,10 @@
+RIL231_3_TGACCA_FC382L1,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL231_3/RIL231_3_TGACCA_FC382L1_p1.fq,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL231_3/RIL231_3_TGACCA_FC382L1_p2.fq
+RIL104_3_ACAGTG_FC382L1,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL104_3/RIL104_3_ACAGTG_FC382L1_p1.fq,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL104_3/RIL104_3_ACAGTG_FC382L1_p2.fq
+RIL108_3_AGTCAA_FC382L1,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL108_3/RIL108_3_AGTCAA_FC382L1_p1.fq,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL108_3/RIL108_3_AGTCAA_FC382L1_p2.fq
+RIL222_3_GTGGCC_FC382L1,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL222_3/RIL222_3_GTGGCC_FC382L1_p1.fq,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL222_3/RIL222_3_GTGGCC_FC382L1_p2.fq
+RIL52_3_CGATGT_FC382L1,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL52_3/RIL52_3_CGATGT_FC382L1_p1.fq,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL52_3/RIL52_3_CGATGT_FC382L1_p2.fq
+RIL212_3_GCCAAT_FC382L1,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL212_3/RIL212_3_GCCAAT_FC382L1_p1.fq,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL212_3/RIL212_3_GCCAAT_FC382L1_p2.fq
+RIL154_3_ACTTGA_FC382L1,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL154_3/RIL154_3_ACTTGA_FC382L1_p1.fq,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL154_3/RIL154_3_ACTTGA_FC382L1_p2.fq
+RIL80_3_ATGTCA_FC382L1,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL80_3/RIL80_3_ATGTCA_FC382L1_p1.fq,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL80_3/RIL80_3_ATGTCA_FC382L1_p2.fq
+RIL145_3_CTTGTA_FC382L1,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL145_3/RIL145_3_CTTGTA_FC382L1_p1.fq,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL145_3/RIL145_3_CTTGTA_FC382L1_p2.fq
+RIL85_3_GTTTCG_FC382L1,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL85_3/RIL85_3_GTTTCG_FC382L1_p1.fq,/rhome/cjinfeng/Rice/RIL/Illumina_correct/RIL85_3/RIL85_3_GTTTCG_FC382L1_p2.fq

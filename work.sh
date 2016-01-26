@@ -18,3 +18,11 @@ echo "then we need to link these file that no need to change in, test if file al
 python Link_unchanged_files.py
 python File_consistence.py
 
+echo "ckeck RILs ID"
+cut -f1 ~/BigData/00.RD/RILs/QTL_pipe/input/trait/May28_2013.RIL.trait.table.QTL.trait.txt.ALL | grep "GN" | sed 's/GN-/RIL/' > File_consistence.RILs.275
+python File_consistence.missing.py
+
+echo "comfirm uniqueness"
+qsub SNP_similarity_tab.sh
+awk '$3>0.9' RILs_SNP.similarity |grep "NA" -v | awk '$1!=$2' | less -S
+ 

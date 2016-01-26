@@ -1,0 +1,10 @@
+Mon Dec 28 12:04:11 PST 2015 3781154.torque.int.bioinfo.ucr.edu run.genotype.RIL231_3_TGACCA_FC382L1.sh
+Mon Dec 28 12:04:11 PST 2015 3781155.torque.int.bioinfo.ucr.edu run.genotype.RIL104_3_ACAGTG_FC382L1.sh
+Mon Dec 28 12:04:11 PST 2015 3781156.torque.int.bioinfo.ucr.edu run.genotype.RIL108_3_AGTCAA_FC382L1.sh
+Mon Dec 28 12:04:12 PST 2015 3781157.torque.int.bioinfo.ucr.edu run.genotype.RIL222_3_GTGGCC_FC382L1.sh
+Mon Dec 28 12:04:12 PST 2015 3781158.torque.int.bioinfo.ucr.edu run.genotype.RIL52_3_CGATGT_FC382L1.sh
+Mon Dec 28 12:04:12 PST 2015 3781159.torque.int.bioinfo.ucr.edu run.genotype.RIL212_3_GCCAAT_FC382L1.sh
+Mon Dec 28 12:04:12 PST 2015 3781160.torque.int.bioinfo.ucr.edu run.genotype.RIL154_3_ACTTGA_FC382L1.sh
+Mon Dec 28 12:04:12 PST 2015 3781161.torque.int.bioinfo.ucr.edu run.genotype.RIL80_3_ATGTCA_FC382L1.sh
+Mon Dec 28 12:04:12 PST 2015 3781162.torque.int.bioinfo.ucr.edu run.genotype.RIL145_3_CTTGTA_FC382L1.sh
+Mon Dec 28 12:04:12 PST 2015 3781163.torque.int.bioinfo.ucr.edu run.genotype.RIL85_3_GTTTCG_FC382L1.sh

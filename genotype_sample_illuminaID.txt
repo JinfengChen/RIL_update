@@ -63,11 +63,13 @@
 #change RIL60_0 -> RIL58_0, but RIL58_0 has problem too, same with RIL61_0_TTAGGC_FC197L2
 #achieve this one, use RIL58_1_GGCTAC_FC197L1 for RIL58
 #193	6	flowcell193_lane6_CTTGTA	0	CTTGTA	RIL58_0
-193	6	flowcell193_lane6_ACAGTG	0	ACAGTG	RIL40_0
+#swith RIL40 to RIL99 based on 13 mPing markers, 20151106
+193	6	flowcell193_lane6_ACAGTG	0	ACAGTG	RIL99_0
 #NB_P
 #193	6	flowcell193_lane6_CGATGT	0	CGATGT	
 193	6	flowcell193_lane6_TTAGGC	0	TTAGGC	RIL25_0
-193	6	flowcell193_lane6_TGACCA	0	TGACCA	RIL99_0
+#swith RIL99 to RIL40 based on 13 mPing markers, 20151106
+193	6	flowcell193_lane6_TGACCA	0	TGACCA	RIL40_0
 #FC193
 #/rhome/cjinfeng/Rice/RIL/FC193_RIL_12_13_16_43_45_47/genotype_sample_illuminaID.txt
 193	5	flowcell193_lane5_GGCTAC	0	GGCTAC	RIL47_0
@@ -156,14 +158,16 @@
 197	2	flowcell197_lane2_AGTCAA	0	AGTCAA	RIL74_0
 197	2	flowcell197_lane2_ATCACG	0	ATCACG	RIL112_0
 197	2	flowcell197_lane2_TTAGGC	0	TTAGGC	RIL61_0
-197	2	flowcell197_lane2_GCCAAT	0	GCCAAT	RIL119_0
+#switch RIL119 to RIL118 based on 13 mPing markers, 20151106
+197	2	flowcell197_lane2_GCCAAT	0	GCCAAT	RIL118_0
 197	2	flowcell197_lane2_ATGTCA	0	ATGTCA	RIL77_0
 197	2	flowcell197_lane2_GGCTAC	0	GGCTAC	RIL67_0
 197	2	flowcell197_lane2_CCGTCC	0	CCGTCC	RIL79_0
 197	2	flowcell197_lane2_AGTTCC	0	AGTTCC	RIL76_0
 197	2	flowcell197_lane2_CGATGT	0	CGATGT	RIL113_0
 197	2	flowcell197_lane2_CTTGTA	0	CTTGTA	RIL73_0
-197	2	flowcell197_lane2_CAGATC	0	CAGATC	RIL118_0
+##switch RIL118 to RIL119 based on 13 mPing markers, 20151106
+197	2	flowcell197_lane2_CAGATC	0	CAGATC	RIL119_0
 #FC197
 #/rhome/cjinfeng/Rice/RIL/FC197_RIL_75_140_179_234_259_A160/genotype_sample_illuminaID.txt
 197	7	flowcell197_lane7_TAGCTT	0	TAGCTT	RIL179_0
@@ -174,7 +178,8 @@
 197	7	flowcell197_lane7_AGTCAA	0	AGTCAA	RIL75_0
 #FC205
 #/rhome/cjinfeng/Rice/RIL/FC205_RIL_92_98_104_131_169_205_207_209_217_219_227_228/genotype_sample_illuminaID.txt
-205	2	flowcell205_lane2_GATCAG	0	GATCAG	RIL209_0
+achieve this one, 20151102
+#205	2	flowcell205_lane2_GATCAG	0	GATCAG	RIL209_0
 205	2	flowcell205_lane2_ACTTGA	0	ACTTGA	RIL207_0
 205	2	flowcell205_lane2_ACAGTG	0	ACAGTG	RIL217_0
 205	2	flowcell205_lane2_ATGTCA	0	ATGTCA	RIL104_0
